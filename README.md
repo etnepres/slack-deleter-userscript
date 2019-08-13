@@ -19,17 +19,13 @@ GIST: https://gist.github.com/firatkucuk/ee898bc919021da621689f5e47e7abac
 2. Install or add this scrypt
 On page *slack-deleter-userscript/slack-deleter-userscript.user.js* click Button [**Raw**](https://github.com/etnepres/slack-deleter-userscript/raw/master/slack-deleter-userscript.user.js)
 
-3. After edit the script: slackGroupURL => to your team handler 
-
-// @match slackGroupURL.slack.com/messages/*
-
-4. Change token to yours, you can generate one at the bellow slack page
+3. Change token to yours, you can generate one at the bellow slack page
 
 const token = 'YOUR-TOKEN-HERE'; // You can learn it from: https://api.slack.com/custom-integrations/legacy-tokens
 
-5. Save the changes and now simply refresh at a message/channel to start deleting 
+4. Save the changes and now simply refresh at a message/channel to start deleting 
 
-6. Don't forget to leave me a start if you like it.
+5. Don't forget to leave me a start if you like it.
 
 ## **Donations**
 Help me feel appreciated with donations. *One has to eat.*
